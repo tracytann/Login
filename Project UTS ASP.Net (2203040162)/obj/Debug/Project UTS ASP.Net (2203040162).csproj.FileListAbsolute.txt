@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\Ari Fuzzaman\Project UTS ASP.Net (2203040162)\bin\Project UTS ASP.Net (2203040162).dll
+C:\Users\ACER\Desktop\Ari Fuzzaman\Project UTS ASP.Net (2203040162)\bin\Project UTS ASP.Net (2203040162).pdb
+C:\Users\ACER\Desktop\Ari Fuzzaman\Project UTS ASP.Net (2203040162)\obj\Debug\Project UTS ASP.Net (2203040162).csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\Ari Fuzzaman\Project UTS ASP.Net (2203040162)\obj\Debug\Project UTS ASP.Net (2203040162).dll
+C:\Users\ACER\Desktop\Ari Fuzzaman\Project UTS ASP.Net (2203040162)\obj\Debug\Project UTS ASP.Net (2203040162).pdb
+D:\Cooleyeah\Projectku\Ari Fuzzaman_2203040162_C1\Ari Fuzzaman\Project UTS ASP.Net (2203040162)\bin\Project UTS ASP.Net (2203040162).dll
+D:\Cooleyeah\Projectku\Ari Fuzzaman_2203040162_C1\Ari Fuzzaman\Project UTS ASP.Net (2203040162)\bin\Project UTS ASP.Net (2203040162).pdb
+D:\Cooleyeah\Projectku\Ari Fuzzaman_2203040162_C1\Ari Fuzzaman\Project UTS ASP.Net (2203040162)\obj\Debug\Project UTS ASP.Net (2203040162).csprojResolveAssemblyReference.cache
+D:\Cooleyeah\Projectku\Ari Fuzzaman_2203040162_C1\Ari Fuzzaman\Project UTS ASP.Net (2203040162)\obj\Debug\Project UTS ASP.Net (2203040162).dll
+D:\Cooleyeah\Projectku\Ari Fuzzaman_2203040162_C1\Ari Fuzzaman\Project UTS ASP.Net (2203040162)\obj\Debug\Project UTS ASP.Net (2203040162).pdb
+D:\Kuliah\Semester 2\Pemrograman Lnjut\Ari Fuzzaman\Project UTS ASP.Net (2203040162)\bin\Project UTS ASP.Net (2203040162).dll
+D:\Kuliah\Semester 2\Pemrograman Lnjut\Ari Fuzzaman\Project UTS ASP.Net (2203040162)\bin\Project UTS ASP.Net (2203040162).pdb
+D:\Kuliah\Semester 2\Pemrograman Lnjut\Ari Fuzzaman\Project UTS ASP.Net (2203040162)\obj\Debug\Project UTS ASP.Net (2203040162).csprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 2\Pemrograman Lnjut\Ari Fuzzaman\Project UTS ASP.Net (2203040162)\obj\Debug\Project UTS ASP.Net (2203040162).dll
+D:\Kuliah\Semester 2\Pemrograman Lnjut\Ari Fuzzaman\Project UTS ASP.Net (2203040162)\obj\Debug\Project UTS ASP.Net (2203040162).pdb

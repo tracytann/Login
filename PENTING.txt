@@ -1,0 +1,12 @@
+Untuk Login menggunakan:
+email : example@gmail.com password : 123456
+
+email : arizaman@gmail.com password : admin123
+
+
+link video demonstrasi:
+https://drive.google.com/drive/folders/120tWuRToJRSuf9a6Act1vaAiUzg1OCcQ?usp=sharing
+
+DataBase Location:
+
+Ari Fuzzaman_2203040162_C1\Ari Fuzzaman\Project UTS ASP.Net (2203040162)\DataBase

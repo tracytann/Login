@@ -1,0 +1,270 @@
+﻿/* Fundamental */
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color:#A0D8B3 ;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header > a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a img{
+    width: 40%;
+    height: 20%;
+    max-width: 70%
+}
+
+.parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main_wrapper{
+    display: flex;
+    gap: -130px;
+}
+
+/* Main Form */
+.left_container{
+    background-color: none;
+    width: 300px;
+    height: 450px;
+    border-radius: 8px;
+    margin: 0 auto;
+    display: block;
+    padding: 0;
+    margin-top: 2rem;
+}
+.left_container > img{
+    display: flex;
+    width: 300px;
+    justify-content: center;
+    align-items: center;
+}
+
+.desc{
+    display: block;
+    margin-left: 150px;
+    font-size: 16px;
+}
+.right_container{
+    background-color: #fff;
+    width: 300px;
+    height: 450px;
+    border: 1px transparent black;
+    border-radius: 8px;
+    margin: 0 auto;
+    box-shadow: 1px 1px 5px black;
+    display: block;
+    padding: 16px;
+    margin-top: 2rem;
+}
+
+.right_container > h3{
+    text-align: left;
+    padding-left: -2px;
+    margin-top: 1px;
+    font-size: 30px;
+    display: flex;
+    margin-bottom: 1px;
+}
+
+.input-container{
+    display: flex;
+    justify-content: center;
+    margin: 3px;
+    flex-direction: column;
+    font-size: 15px;
+}
+
+.input-container > label{
+    display: block;
+    margin-bottom:.5rem;
+    padding: 0;
+}
+
+.input-container > input{
+    width: auto;
+    height: 30px;
+    display: block;
+    border-radius: 8px;
+    padding: 1px 8px;
+}
+
+span
+{
+    margin-left:2rem;
+}
+
+/* button */
+.btn .tombol > button {
+    margin: 16px;
+    height: 35px;
+    width: 268px;
+    border-radius: 8px;
+}
+a > button{
+    margin: 16px;
+    width: 119px;
+    height: 35px;
+    border-radius: 8px;
+}
+
+button:hover{
+    background-color: #E5F9DB;
+    transition: .3s;
+    cursor: pointer;
+}
+
+/* Decoration */
+.line{
+    position: relative;
+    height: 1px;
+    width:268px;
+    margin: 16px;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    background-image: url();
+    background-color: #d4d4d4;
+}
+
+.line::before{
+    content: 'atau daftar dengan';
+    font-size: 12px;
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    transform:translate(50%, -50%);
+    background-color: #fff;
+    color: #232836;
+    padding: 5px;
+}
+
+.line_2{
+    position:relative;
+    height: 1px;
+    width: 268px;
+    margin: 16px;
+    margin-top: 22px;
+    margin-bottom: 20px;
+    background-color: #d4d4d4;
+}
+
+.line_2::before{
+    content: 'atau masuk dengan';
+    font-size: 12px;
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    transform:translate(50%, -50%);
+    background-color: #fff;
+    color: #232836;
+    padding: 5px;
+}
+
+/* opsi register or login menggunakan media sosial */
+.media-options a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    width: auto;
+    height: 35px;
+    margin-top:22px;
+    margin: 10px;
+    border-radius: 8px;
+}
+
+a.facebook{
+    color: #fff;
+    background-color:#4267B2;
+    transition: .3s;
+
+}
+
+a.facebook:hover{
+    background-color: #1f409b;
+}
+
+a.google{
+    background-color:white;
+    outline: 1px solid black;
+    color: #000;
+    transition: .3s;
+}
+a.google:hover{
+    background-color:#d4d4d4;
+}
+
+span{
+    font-size: 12px;
+}
+
+/* bridge register to create & create to register */
+.bridge{
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+    margin-left: 7.9rem;
+    margin-bottom: -1rem;
+}
+
+.bridge a{
+    text-decoration: none;
+    color: #A0D8B3;
+    transition: .3s;
+}
+.bridge a:hover{
+    color: #000;
+}
+
+/* Footer */
+.bantuan{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3rem;
+    font-size: 12px;
+}
+.bantuan a {
+    margin-left: 3px;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+
+.bantuan a:hover{
+    text-decoration: underline;
+}
+
+.warning
+{
+    margin-top:27px;
+    margin-left:1.5rem;
+    padding:0;
+    color:red;
+}
+
+.btn
+{
+    margin-top : 15px;
+    border-radius:8px;
+    height:35px;
+    width:120px;
+    margin-left:2.8rem;
+    cursor:pointer;
+}
+
+
+.form_1
+{
+    margin-top:11px;
+}
